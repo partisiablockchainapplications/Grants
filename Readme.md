@@ -35,11 +35,12 @@ We welcome the community to submit grant proposals to build any of the applicati
 * Decentralized and privacy preserving machine learning use-cases (image recognition etc.)
 
 ### Partisia Blockchain NFTs / Metaverse
-* Finalize MPC-721 standard that allows for private ownership of NFTs and private metadata in NFTs **(complete!)**
-* Create MPC-1155, based on ERC-1155 standard that allows for private ownership of NFTs and private metadata in NFTs
-* Partisia Blockchain Lootboxdeveloper@partisiablockchainTH / SOL / etc games: Lootbox NFTs used in games on Partisia Blockchain or other networks would be represented with Partisia BlockchainNFTs, revealing rewards only after NFT is claimed
+* Leverage MPC-721 standard that allows for private ownership of NFTs and private metadata in NFTs
+* Leverage MPC-1155, based on ERC-1155 standard that allows for private ownership of NFTs and private metadata in NFTs
+* Partisia Blockchain: Lootbox NFTs used in games on Partisia Blockchain or other networks would be represented with Partisia BlockchainNFTs, revealing rewards only after NFT is claimed
 
 ### Decentralized Governance and DAOs
+* Leverag the Multisig Standard * 
 * **Partisia BlockchainFund:** Build a DAO funded by block rewards of delegators participating in the DAO. Delegators receive governance tokens proportional to their contribution. Governance tokens determine how the funds in Partisia BlockchainFund are managed.
 * **Partisia BlockchainLaunchPad:** Create a crowdfunding mechanism like Polkastarter, where Partisia Blockchain Network participant can support launch of products built on Partisia Blockchain Network or Ethereum (using the bridge). Using Partisia Blockchain Tokens, Partisia BlockchainLaunchPad would allow anonymous investments.
 
