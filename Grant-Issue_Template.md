@@ -58,4 +58,27 @@ Ideally, we can receive payments in 3 disbursements, one at the beginning of the
 We would be willing to consider part payment in MPCs, up to x%.
 
 ## Additional Information
-N/A.
+
+Reach out on [discord](https://discord.gg/q9ZUXPXhts)
+
+#Here is an example of a fully crafted proposal:
+`
+Hi, my name is [name] and I am submitting a proposal on behalf of [entity].  Our site is [url]
+Here are the details of our idea/project, what we have delivered in the past, and our motivation for building on Partisia.
+Project Proposal
+Our idea is [ ] and It will solve this problem [ ]  It will use [ ] aspects of Partisia.
+Our business model flows this way [ ], including how transaction gas will be funded and how our revenue stream will work. [ ]
+Here are the technical details on how it will work [ ] Attached are the artifacts/design diagrams
+We are also attaching our artifacts and design documents [ ]
+Our total funding request is $[ ] and the plans for the usage of the fund is broken down here (marketing $[ ], development, $[ ] QA, $[ ] etc)
+Here is our project plan milestones for this initiative [ ]
+Our experience
+Our past experience is with the following language [ ]
+Our past projects were [ ]
+You can find it here [ ]
+We are open source and you can find our repository here [ ]
+Here are some references you may reach out to [ ]
+Our team
+Our team consists of the following [name, email, social media links, role in the team]
+Thank you for your consideration!
+`
