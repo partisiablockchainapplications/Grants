@@ -2,24 +2,28 @@ Please make sure to submit your grant application as an issue
 
 # Example Team Name
 
-## Project Description
-This is an **example** application for a grant programme: **Partisia Blockchain Grant Program: Partisia Blockchain Apps**
+#Here is an example of a fully crafted proposal:
+`
+Hi, my name is [name] and I am submitting a proposal on behalf of [entity].`
+`Our site is [url]`
+`Here are the details of our idea/project, what we have delivered in the past, and our motivation for building on Partisia.`
+### Project Proposal
+`Our idea is [ ] and It will solve this problem [ ]  It will use [ ] aspects of Partisia.`
+`Our business model flows this way [ ], including how transaction gas will be funded and how our revenue stream will work. [ ]`
+`Here are the technical details on how it will work [ ] Attached are the artifacts/design diagrams`
+`We are also attaching our artifacts and design documents [ ]`
+`Our total funding request is $[ ] and the plans for the usage of the fund is broken down here (marketing $[ ], development, $[ ] QA, $[ ] etc)`
+`Here is our project plan milestones for this initiative [ ]`
+### Our experience
+`Our past experience is with the following language [ ]`
+`Our past projects were [ ]`
+`You can find it here [ ] `
+`We are open source and you can find our repository here [ ]`
+` Here are some references you may reach out to [ ]`
+### Our team
+`Our team consists of the following [name, email, social media links, role in the team]`
 
-We intend to create a staking derivatives on Partisia Blockchain. More implementations will increase capital efficiecy in Partisia Blockchain and enable MPC staked to secure Partisia Blockchain to be used in other Partisia Blockchain applications such as DeFi, governance and games.
 
-Our team has been closely following Ethereum DeFi and Partisia Blockchain in the last year, and are active in the chat channels. Needless to say, we are really excited to see this project evolve.
-
-## Problem / Solution
-MPC staked to secure Partisia Blockchain cannot be used in Partisia Blockchain ecosystem, creating a capital inefficiency. Staking derivatives (dxMPC) allows MPC holders to...
-
-## Detailed product description
-The components of staking derivatives (dxMPC) contract include a validator set module that determines validator participation, staking module which handles bonded tokens and liquidity pool.
-
-## Go-to-Market plan
-As dxMPC is a clear value proposition for existing MPC holders, we hope to promote this effort within the Partisia Blockchain community
-
-## Value capture for Partisia Blockchain ecosystem
-The main KPIs for Partisia Blockchain is TVL (privacy value add to other blockchain ecosystems), number of transactions and number of user (for applications)
 
 ## Team members
 * John Smith
@@ -45,41 +49,10 @@ We've been a team for 2 years, and....
 * https://www.linkedin.com/<alice_>
 * https://www.linkedin.com/<bob_>
 
-## Development Roadmap
-We will require 3 months to complete this project. We intend to hav 2 developers full-time and 1 part-time, at a total cost of $X,000.
+Thank you for your consideration!
 
-Example milestones:
-* Implement X (weeks 0 - 4).
-* Implement Y (weeks 4 - 8).
-* Implement Z (weeks 8 - 12).
-
-Ideally, we can receive payments in 3 disbursements, one at the beginning of the grant, one after implementation of Y and last payment when the development work is completed.
-
-We would be willing to consider part payment in MPCs, up to x%.
 
 ## Additional Information
 
 Reach out on [discord](https://discord.gg/q9ZUXPXhts)
 
-#Here is an example of a fully crafted proposal:
-`
-Hi, my name is [name] and I am submitting a proposal on behalf of [entity].`
-`Our site is [url]`
-`Here are the details of our idea/project, what we have delivered in the past, and our motivation for building on Partisia.`
-### Project Proposal
-`Our idea is [ ] and It will solve this problem [ ]  It will use [ ] aspects of Partisia.`
-`Our business model flows this way [ ], including how transaction gas will be funded and how our revenue stream will work. [ ]`
-`Here are the technical details on how it will work [ ] Attached are the artifacts/design diagrams`
-`We are also attaching our artifacts and design documents [ ]`
-`Our total funding request is $[ ] and the plans for the usage of the fund is broken down here (marketing $[ ], development, $[ ] QA, $[ ] etc)`
-`Here is our project plan milestones for this initiative [ ]`
-### Our experience
-`Our past experience is with the following language [ ]`
-`Our past projects were [ ]`
-`You can find it here [ ] `
-`We are open source and you can find our repository here [ ]`
-` Here are some references you may reach out to [ ]`
-### Our team
-`Our team consists of the following [name, email, social media links, role in the team]`
-Thank you for your consideration!
-`
